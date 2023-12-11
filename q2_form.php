@@ -7,6 +7,8 @@
     <title>로그인</title>
 </head>
 
+<!-- 로그인 입력폼 -->
+
 <body>
     <form method="post" action="q2.php">
         <label for="id">아이디:</label>
@@ -16,5 +18,5 @@
         <input type="password" id="password" name="password" required>
         <br>
         <button type="submit">로그인</button>
- 
+
     </form>
